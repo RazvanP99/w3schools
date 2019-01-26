@@ -12,8 +12,8 @@
   },
   "//": "CUSTOM CONFIGURATION",
   "config": {
-    "customUrl": "http://pug-starter.codetap.io",
-    "githubUrl": "http://github.com/marianzburlea/pug-starter.git",
+    "customUrl": "https://razvanp99.guthub.io/w3scoala",
+    "githubUrl": "https://razvanp99.github.io/w3scoala",
     "deployToGithubIo": true,
     "directory": {
       "development": "tmp",
@@ -101,5 +101,6 @@
     "jstransformer-markdown-it": "^2.0.0",
     "merge-stream": "^1.0.1",
     "minimist": "^1.2.0"
+      
   }
 }
