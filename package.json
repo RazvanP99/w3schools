@@ -12,7 +12,7 @@
   },
   "//": "CUSTOM CONFIGURATION",
   "config": {
-    "customUrl": "https://razvanp99.guthub.io/w3scoala",
+    "customUrl": "https://razvanp99.github.io/w3scoala",
     "githubUrl": "https://razvanp99.github.io/w3scoala",
     "deployToGithubIo": true,
     "directory": {
