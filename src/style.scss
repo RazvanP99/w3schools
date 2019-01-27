@@ -139,7 +139,7 @@ h6 {
 }
 
 body {
-  background-image: url(`${baseUrl}/asset/image/photo.png`);
+  background-image: url("asset/image/photo.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-position: 10% 10%;

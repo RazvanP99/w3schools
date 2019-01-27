@@ -12,8 +12,8 @@
   },
   "//": "CUSTOM CONFIGURATION",
   "config": {
-    "customUrl": "https://razvanp99.github/w3scoala",
-    "githubUrl": "https://razvanp99.github/w3scoala",
+    "customUrl": "https://github.com/RazvanP99/w3scoala",
+    "githubUrl": "https://github.com/RazvanP99/w3scoala",
     "deployToGithubIo": true,
     "directory": {
       "development": "tmp",
