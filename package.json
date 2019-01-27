@@ -13,7 +13,7 @@
   "//": "CUSTOM CONFIGURATION",
   "config": {
     "customUrl": "https://github.com/RazvanP99/w3scoala",
-    "githubUrl": "https://github.com/RazvanP99/w3scoala",
+    "githubUrl": "https://github.com/RazvanP99/w3schools",
     "deployToGithubIo": true,
     "directory": {
       "development": "tmp",
